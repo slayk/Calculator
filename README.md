@@ -1,6 +1,6 @@
 # Calculator
 
-A fundamental Calculator Application based on HTML and JavaScript only.
+A fundamental Calculator Application based on HTML, JavaScript and Express.
 - Takes two numbers from the user.
 - Adds them up.
 
